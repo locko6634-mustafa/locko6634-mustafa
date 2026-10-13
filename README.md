@@ -1,129 +1,97 @@
-# Hi, I'm an AI Operator Student
+# Hi, I'm Mustafa
 
-**Building practical software, AI-powered solutions, and automation systems.**
+**AI Operator student at Marmara University | Software development · Applied AI · Automation**
 
-I'm an Artificial Intelligence Operator student at **Marmara University, Türkiye**, interested in software engineering, applied artificial intelligence, and building useful digital products.
+I build practical digital products by combining web technologies, APIs, databases, AI workflows, and self-hosted infrastructure.
 
-I enjoy exploring how software, AI models, APIs, and automation tools can work together to solve real-world problems. My goal isn't just to learn technologies individually, but to understand how to combine them into complete, practical systems — from an idea to a working application.
+My GitHub reflects the way I like to learn: start with a real problem, build a working solution, test the important paths, and improve the system beyond its first demo. I'm especially interested in the space where **software engineering and applied AI meet** — useful tools, automated workflows, and products that can be deployed and maintained.
 
-## About Me
+## Featured Projects
 
-- Studying Artificial Intelligence Operation at Marmara University.
-- Interested in building real-world software projects rather than learning through theory alone.
-- Working with web technologies, GitHub, prompt engineering, workflow automation, and self-hosted development tools.
-- Exploring how AI can be integrated into applications, automated workflows, and digital products.
-- Interested in the entire software development process, including programming fundamentals, system architecture, databases, deployment, and infrastructure.
-- Continuously improving my skills through experimentation, independent learning, and project-based development.
+### [VitrinOS](https://github.com/locko6634-mustafa/VitrinOS)
+A self-hosted AI marketing-creative platform for e-commerce brands. It brings together a web dashboard, a Node.js/TypeScript API, PostgreSQL, S3-compatible storage with MinIO, and n8n workflows that coordinate AI-assisted generation of advertising visuals and copy.
 
-I believe the most valuable way to learn software development is to build things, encounter real problems, understand why they happen, and improve the solution.
+**Focus:** AI workflow orchestration, API design, structured LLM workflows, image processing, storage, and deployment.
 
-## Technologies & Areas of Interest
+### [Düğün Ajansım](https://github.com/locko6634-mustafa/Dugun_Ajansim)
+A wedding photography and video-production web platform, with service discovery, galleries, packages, customer-facing flows, and administrative functionality. The repository also includes automated validation, security-conscious configuration, and self-hosted deployment work.
 
-### Web Development
-I have experience with web technologies and enjoy building practical websites and web-based projects.
+**Focus:** Modular frontend development, full-product workflows, testing, operational reliability, and self-hosted infrastructure.
 
-- HTML
-- CSS
-- Web development
-- Git & GitHub
+### [Konsept Gelsin](https://github.com/locko6634-mustafa/Konsept_Gelsin)
+A multi-page website presenting wedding and event keepsake services. Its package pages share a central content source and guide visitors directly to WhatsApp rather than using an unnecessary contact form.
 
-### Artificial Intelligence & Automation
-One of my main interests is turning AI capabilities into useful, repeatable workflows and applications.
+**Focus:** Responsive web design, reusable content, accessibility, SEO, automated checks, and Docker/Nginx-based deployment.
 
-- AI-powered automation
-- Prompt engineering
-- n8n workflow automation
-- API integrations
-- AI-assisted application development
-- Self-hosted tools and services
-- Chatwoot and automation-oriented integrations
+### [Yeşil Nesil Garden](https://github.com/locko6634-mustafa/Yeni-Nesil-Garden)
+A website for an outdoor wedding and event venue in Polonezköy, İstanbul, built around venue presentation, responsive imagery, and search/social sharing metadata.
 
-### Programming & Software Engineering
-I'm working toward a strong foundation in programming and software engineering, with an emphasis on understanding how systems work beneath the surface.
+**Focus:** Frontend implementation, responsive experiences, media presentation, and technical SEO.
 
-- Python
-- C
-- Java
-- SQL and database systems
-- Data structures and algorithms
-- Operating systems
-- Computer hardware and system fundamentals
-- Software design and engineering principles
+### [Randevu Paneli — Dashboard](https://github.com/locko6634-mustafa/Dashboard)
+An appointment and customer-management dashboard concept that brings scheduling, customer records, notes, and operational/financial summaries into one interface.
 
-### Machine Learning & Intelligent Systems
-I'm particularly interested in progressing from using existing AI tools to understanding how intelligent systems are designed, trained, evaluated, and integrated into software.
+**Focus:** Dashboard UX, modular JavaScript, REST API integration, Node.js, TypeScript, Prisma, and PostgreSQL.
 
-- Machine learning
-- Deep learning
-- Computer vision
-- Data processing and analysis
-- AI model integration
-- Practical applications of intelligent systems
+### [BrainDump](https://github.com/locko6634-mustafa/BrainDump)
+An early-stage personal “second brain” desktop application built with Python and PyQt6. The current version focuses on the UI, including navigation, notes, goals, statistics, and settings.
 
-### Infrastructure & Deployment
-I also enjoy working with the infrastructure that makes applications usable outside a development environment.
+**Focus:** Python desktop development, UI composition, and rapid prototyping.
 
-- Docker
-- Linux and server administration
-- Self-hosted applications
-- Development environments
-- Deployment and service management
+> These projects are at different stages of development. I try to be clear about what is implemented today and what remains an idea or a work in progress.
 
-*This list reflects a combination of existing experience, current learning, and areas I want to explore more deeply.*
+## Technologies I Work With
 
-## What I Want to Build
+**Web development**
+- HTML5, CSS, JavaScript, and ES modules
+- Responsive interfaces, reusable components, and frontend architecture
+- Git and GitHub
 
-I'm especially interested in projects that connect multiple technologies to solve practical problems.
+**Backend and data**
+- Node.js and TypeScript
+- REST APIs and service integration
+- PostgreSQL and Prisma
+- S3-compatible storage and MinIO
 
-Some areas I want to explore and develop further include:
+**Applied AI and automation**
+- n8n workflow orchestration
+- OpenAI integrations and prompt design
+- AI-assisted content and image workflows
+- Connecting models, APIs, storage, and user-facing applications
 
-- **AI-powered applications:** Software that uses AI to provide useful functionality rather than simply wrapping a model in a chat interface.
-- **Workflow automation:** Systems that connect APIs, services, and AI models to automate repetitive or complex tasks.
-- **Useful web products:** End-to-end web projects that combine a clear user interface with meaningful functionality and backend integrations.
-- **Self-hosted tools:** Applications and services that can be deployed, managed, and customized on my own infrastructure.
-- **Developer tools and integrations:** Practical solutions that make existing tools easier to connect, automate, or use.
-- **Intelligent systems:** Projects that apply machine learning, deep learning, or computer vision to concrete problems.
+**Deployment and quality**
+- Docker and Docker Compose
+- Self-hosted services and Linux server workflows
+- Nginx and Traefik
+- Automated tests, validation gates, and deployment workflows
 
-I want my projects to demonstrate not only that something works, but also that I understand how it works, why I built it that way, and how it could be improved.
+**Desktop development**
+- Python and PyQt6
 
-## My Learning Roadmap
+## What I'm Learning Next
 
-My long-term goal is to develop a broad and technically solid understanding of software and artificial intelligence.
+I want to build a strong foundation beneath the tools I already use, while continuing to ship practical projects. Areas I plan to deepen include:
 
-The areas I intend to strengthen include:
+- **Programming fundamentals:** C, Java, algorithms, data structures, and problem-solving.
+- **Computer systems:** operating systems, computer architecture, Linux, and how software interacts with hardware.
+- **Software engineering:** architecture, maintainable code, testing, security, databases, and reliable delivery.
+- **AI and data:** machine learning, deep learning, computer vision, and data processing.
+- **AI engineering:** model integration, evaluation, orchestration, and production-oriented AI applications.
 
-1. **Programming fundamentals:** Python, C, Java, algorithms, data structures, and problem-solving.
-2. **Computer systems:** Operating systems, hardware, Linux, and how software interacts with the underlying machine.
-3. **Software engineering:** Maintainable code, architecture, databases, testing, version control, and reliable application development.
-4. **AI and data:** Machine learning, deep learning, computer vision, and data processing.
-5. **AI engineering and automation:** API integrations, model-backed applications, workflow orchestration, and production-oriented AI systems.
-6. **Deployment and infrastructure:** Docker, Linux servers, self-hosting, and deploying complete applications.
+These are learning goals, not a claim of expertise in every area.
 
-I already have experience with web technologies, GitHub, prompt engineering, n8n, AI automation tools, and Docker-based environments. My focus is to build on that experience while developing deeper programming and computer science fundamentals.
+## How I Like to Build
 
-## How I Approach Development
+- **Start with a real use case.** A project should solve a problem or make a process easier.
+- **Understand the whole system.** I want to know how the UI, application logic, APIs, data, and infrastructure fit together.
+- **Automate repeatable work.** Tests, validation, and deployment should be part of the development process, not an afterthought.
+- **Use AI deliberately.** AI is most useful when it is integrated into a well-designed workflow with clear inputs, outputs, and constraints.
+- **Keep learning through implementation.** Build, test, debug, document, and improve.
 
-- **Learn by building:** Turn what I learn into working projects.
-- **Understand the fundamentals:** Avoid relying on tools without understanding the underlying concepts.
-- **Automate repetitive work:** Look for opportunities to make processes more efficient.
-- **Combine technologies thoughtfully:** Choose tools based on the problem, not just because they're popular.
-- **Build complete solutions:** Consider usability, maintainability, deployment, and real-world constraints.
-- **Keep experimenting:** Treat mistakes, prototypes, and unfinished experiments as part of the learning process.
+## Long-Term Direction
 
-## Beyond Writing Code
+My goal is to become a developer who can take an idea from research and design through implementation, AI integration, deployment, and maintenance. I’m interested in building reliable AI-powered products — not just demos — while strengthening the computer science and software engineering fundamentals that make those products sustainable.
 
-I'm interested in the bigger picture of technology: how ideas become products, how AI changes the way software is built, and how independent developers can use modern tools to build solutions that would previously require much larger teams.
+You'll find product experiments, web projects, automation systems, and learning work here. Some repositories are complete enough to demonstrate a workflow; others document an idea as it develops.
 
-I want to become capable of taking an idea from initial research and design all the way through implementation, automation, deployment, and continued improvement.
-
-## What's on This GitHub?
-
-You'll find my experiments, learning projects, practical implementations, and tools I build while exploring software development and artificial intelligence.
-
-Some projects may be small experiments; others may grow into more complete applications. The goal is to keep learning, build a meaningful portfolio, and document that progress through real code.
-
-**I'm here to build, understand, experiment, and turn ideas into working software.**
-
----
-
-*Learning continuously. Building practically. Exploring the possibilities of AI and software.*
+**Build useful things. Understand how they work. Keep improving.**
