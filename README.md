@@ -94,4 +94,13 @@ My goal is to become a developer who can take an idea from research and design t
 
 You'll find product experiments, web projects, automation systems, and learning work here. Some repositories are complete enough to demonstrate a workflow; others document an idea as it develops.
 
-**Build useful things. Understand how they work. Keep improving.**
+**Build useful things. Understand how they work. Keep improving.** 
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=locko6634-mustafa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locko6634-mustafa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
